@@ -1,2 +1,2 @@
-# confidentialit-
+# confidentialite
 Déclaration de confidentialité.
